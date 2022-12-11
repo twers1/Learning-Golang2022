@@ -1,2 +1,2 @@
-# Learn Goland with me
+# Learn Golang with me
 
