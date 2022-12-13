@@ -70,3 +70,31 @@ fmt.Println(online)
 const pi = 3.14
 
 // Arithmetic operators Арифметические операторы
+
+// Go supports all common arithmetic operators.
+// Go поддерживает все распространенные арифметические операторы.
+
+x := 42
+y := 8
+      
+res := x + y
+fmt.Println(res) 
+      
+res = x - y
+fmt.Println(res)  
+
+res = x * y
+fmt.Println(res)  
+
+res = x / y
+fmt.Println(res)  
+      
+res = x % y
+fmt.Println(res)  
+
+// The + (plus) operator can also be used to join strings.
+// Оператор + (плюс) также может быть использован для объединения строк.
+
+x := "привет "
+y := "мир"
+fmt.Println(x + y) // выведет "привет мир"
