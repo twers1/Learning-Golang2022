@@ -29,4 +29,10 @@ Studied the switch operator and the for loop; solved many problems to consolidat
 
 Изучила оператор switch и цикл for; решила много задач на закрепление информации 
 
+## Day 5 | День 5 🔥
+
+Reinforced past knowledge with assignments; reviewed how to call functions in GO, arguments, return from function(return), deref 
+
+Закрепила прошлые знания заданиями; рассмотрела как вызывать функции в GO, аргументы, возврат из функции(return), deref 
+
 
