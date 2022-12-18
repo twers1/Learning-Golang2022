@@ -47,4 +47,8 @@ I learned what pointers are and solved the problem. You have to rest too 🌊
 
 Узнала что такое указатели и решила задачу. Отдыхать тоже надо 🌊
 
+## Day 8 | День 8 🔥
 
+I studied transferring pointers to functions and solved several problems
+
+Изучила передачу указателей в функции и решала несколько задач
