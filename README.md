@@ -52,3 +52,9 @@ I learned what pointers are and solved the problem. You have to rest too 🌊
 I studied transferring pointers to functions and solved several problems
 
 Изучила передачу указателей в функции и решала несколько задач
+
+## Day 9 | День 9 🔥
+
+Studied structures in GO and pointers to structures; also solved several problems to reinforce the information
+
+Изучила структуры в языке GO и указатели на структуры; также решила несколько задач для закрепления информации
