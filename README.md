@@ -58,3 +58,16 @@ I studied transferring pointers to functions and solved several problems
 Studied structures in GO and pointers to structures; also solved several problems to reinforce the information
 
 Изучила структуры в языке GO и указатели на структуры; также решила несколько задач для закрепления информации
+
+## Day 10 | День 10 🔥
+
+Didn't do anything
+
+ничего не делала
+
+
+## Day 11 | День 11 🔥
+
+Didn't do anything
+
+Ничего не делала
