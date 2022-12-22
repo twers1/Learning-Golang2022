@@ -71,3 +71,9 @@ Didn't do anything
 Didn't do anything
 
 Ничего не делала
+
+## Day 12 | День 12 🔥
+
+Preparing for Mathematics (exam)
+
+Подготовка к математике(экзамен)
