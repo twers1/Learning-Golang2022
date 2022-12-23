@@ -77,3 +77,9 @@ Didn't do anything
 Preparing for Mathematics (exam)
 
 Подготовка к математике(экзамен)
+
+## Day 13 | День 13 🔥
+
+There was a consolidation of information and a new topic "Methods"
+
+Было закрепление информации и новая тема "Методы"
