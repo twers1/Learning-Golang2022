@@ -83,3 +83,9 @@ Preparing for Mathematics (exam)
 There was a consolidation of information and a new topic "Methods"
 
 Было закрепление информации и новая тема "Методы"
+
+## Day 14 | День 14 🔥
+
+Didn't do anything
+
+Ничего не делала
