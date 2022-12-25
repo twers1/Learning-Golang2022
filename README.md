@@ -89,3 +89,9 @@ There was a consolidation of information and a new topic "Methods"
 Didn't do anything
 
 Ничего не делала
+
+## Day 15 | День 15 🔥
+
+Didn't do anything
+
+Ничего не делала
