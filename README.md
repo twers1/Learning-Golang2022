@@ -95,3 +95,16 @@ Didn't do anything
 Didn't do anything
 
 Ничего не делала
+
+## Day 16 | День 16 🔥
+
+Was doing her project (telegram bot)
+
+Делала свой проект (телеграм бот)
+
+
+## Day 17 | День 17 🔥
+
+Was doing her project (telegram bot)
+
+Делала свой проект (телеграм бот)
