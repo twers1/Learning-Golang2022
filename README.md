@@ -108,3 +108,9 @@ Was doing her project (telegram bot)
 Was doing her project (telegram bot)
 
 Делала свой проект (телеграм бот)
+
+## Day 18 | День 18 🔥
+
+Didn't do anything
+
+Ничего не делала
